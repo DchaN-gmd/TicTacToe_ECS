@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|c:\\users\\caniculagames\\documents\\github\\ecs\\assets\\generated\\game\\gamecomponentslookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\generated\\game\\gamecomponentslookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\checkwinsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\checkwinsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\caniculagames\\documents\\github\\ecs\\assets\\generated\\game\\components\\gamecheckwineventcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\generated\\game\\components\\gamecheckwineventcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\generated\\game\\components\\gametakencomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\generated\\game\\components\\gametakencomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\setsignviewsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\setsignviewsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\initcellssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\initcellssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\signtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\signtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CreateCellViewSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Systems\\CreateCellViewSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\linkboxcollidersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5506A551-24D0-3CFD-3B82-8416CD77E314}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\linkboxcollidersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\caniculagames\\documents\\github\\ecs\\assets\\scripts\\systems\\checkwineventcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\checkwineventcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\winnercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\winnercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\clickedcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\clickedcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\takencomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\takencomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\cellcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\cellcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\collidercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\collidercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\assets\\scripts\\systems\\cellviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\systems\\cellviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ResourceComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Systems\\ResourceComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GameController.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:29:10.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameComponentsLookup.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Generated\\Game\\GameComponentsLookup.cs",
+              "RelativeDocumentMoniker": "Assets\\Generated\\Game\\GameComponentsLookup.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Generated\\Game\\GameComponentsLookup.cs",
+              "RelativeToolTip": "Assets\\Generated\\Game\\GameComponentsLookup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:03:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCheckWinEventComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Generated\\Game\\Components\\GameCheckWinEventComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Generated\\Game\\Components\\GameCheckWinEventComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Generated\\Game\\Components\\GameCheckWinEventComponent.cs",
+              "RelativeToolTip": "Assets\\Generated\\Game\\Components\\GameCheckWinEventComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:03:17.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckWinEventComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CheckWinEventComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CheckWinEventComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CheckWinEventComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CheckWinEventComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:40:27.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WinnerComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\WinnerComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\WinnerComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\WinnerComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\WinnerComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:54:11.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckWinSystem.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CheckWinSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CheckWinSystem.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CheckWinSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CheckWinSystem.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA9wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:52:18.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameTakenComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Generated\\Game\\Components\\GameTakenComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Generated\\Game\\Components\\GameTakenComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Generated\\Game\\Components\\GameTakenComponent.cs",
+              "RelativeToolTip": "Assets\\Generated\\Game\\Components\\GameTakenComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:02:35.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClickedComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ClickedComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\ClickedComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ClickedComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\ClickedComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:55:28.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SetSignViewSystem.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\SetSignViewSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\SetSignViewSystem.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\SetSignViewSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\SetSignViewSystem.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:51:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GameState.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\GameState.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:56:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TakenComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\TakenComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\TakenComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\TakenComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\TakenComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:54:54.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputSystem.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\InputSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\InputSystem.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\InputSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\InputSystem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:54:11.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CellComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CellComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CellComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CellComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CellComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:33:41.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InitCellsSystem.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\InitCellsSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\InitCellsSystem.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\InitCellsSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\InitCellsSystem.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:18:29.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ColliderComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ColliderComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\ColliderComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ColliderComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\ColliderComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:35:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configurator.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\Configurator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Configurator.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\Configurator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\Configurator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:22:35.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignType.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\SignType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\SignType.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\SignType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\SignType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:53:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCellViewSystem.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CreateCellViewSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CreateCellViewSystem.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CreateCellViewSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CreateCellViewSystem.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:55:32.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CellViewComponents.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CellViewComponents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CellViewComponents.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\CellViewComponents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\CellViewComponents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:34:25.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LinkBoxColliderSystem.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\LinkBoxColliderSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\LinkBoxColliderSystem.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\LinkBoxColliderSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\LinkBoxColliderSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:50:57.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResourceComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ResourceComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\ResourceComponent.cs",
+              "ToolTip": "C:\\Users\\CaniculaGames\\Documents\\GitHub\\ECS\\Assets\\Scripts\\Systems\\ResourceComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\ResourceComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:54:53.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
